@@ -97,14 +97,6 @@
       "keywords": ["md", "render", "preview"]
     },
     {
-      "name": "md",
-      "title": "Markdown Preview (Md)",
-      "subtitle": "DevKin",
-      "description": "Alias for Markdown Preview — opens the live markdown renderer.",
-      "mode": "no-view",
-      "keywords": ["markdown", "render", "preview"]
-    },
-    {
       "name": "html",
       "title": "HTML Preview",
       "subtitle": "DevKin",
