@@ -5,6 +5,9 @@
 Open DevKin tools directly from Raycast. Each command opens the matching
 `devkin://` deep link in the DevKin macOS app.
 
+For the DevKin app overview and installation instructions, see
+[homebrew-devkin](https://github.com/lsh2613/homebrew-devkin).
+
 ## Requirements
 
 - macOS with Raycast installed
@@ -28,13 +31,7 @@ Open DevKin tools directly from Raycast. Each command opens the matching
 - Regex Tester
 - Time Converter
 
-## Customize Raycast
-
-No aliases or hotkeys are supplied by this extension. Search Raycast for a
-command by name or keyword, then use **Configure Command** to assign your own
-alias or hotkey.
-
-## Development
+## Run Locally
 
 ```sh
 npm install
